@@ -6,7 +6,7 @@ I am a fiber artist and graphic designer, now, I'm also a self-taught front-end 
 ## I'm into...<br>
 ● 📹 Video Making <br>
 ● 👩🏻‍🎨 Art and Craft<br>
-● 🖥 Nnow, I am really into learning programming, it is so fun to create a aesthsetic design.<br>
+● 🖥 Now, I am really into learning programming, it is so fun to create a aesthsetic design.<br>
 ● 💬 btw, I can speak 5 languages: Chinese, English, Taiwanese, French, Japanese<br>
 
 
@@ -18,7 +18,7 @@ I am a fiber artist and graphic designer, now, I'm also a self-taught front-end 
   <a href="https://www.linkedin.com/in/ponhuang/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href="mailto:carolyn722@gmail.com" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     
-## Languages
+## Skills
 <div style="display: inline-block">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
