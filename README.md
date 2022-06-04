@@ -5,7 +5,7 @@ I am a fiber artist and graphic designer, now, I'm also a self-taught front-end 
 
 ## Beside coding, I'm also into...<br>
 ● 📹 Video Making<br>
-● 👩🏻‍🎨 Making art and craft<br>\
+● 👩🏻‍🎨  Making art and craft<br>
 ● 💬 speak 5 languages: Chinese, English, Taiwanese, French, Japanese<br>
 ● 🏃🏻‍♀️ fun fact, I quite like walking<br>
 
