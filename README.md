@@ -3,11 +3,11 @@ I am a fiber artist and graphic designer, now, I'm also a self-taught front-end 
 
 <img src="https://github.com/ponhuang/ponhuang/blob/5e1c32e0a5e962dc8f3b0167570c119b3ef90da2/github-banner.png">
 
-## I'm into...<br>
-● 📹 Video Making <br>
-● 👩🏻‍🎨 Art and Craft<br>
-● 🖥 Now, I am really into learning programming, it is so fun to create a aesthsetic design.<br>
-● 💬 btw, I can speak 5 languages: Chinese, English, Taiwanese, French, Japanese<br>
+## Beside coding, I'm also into...<br>
+● 📹 Video Making<br>
+● 👩🏻‍🎨 Making art and craft<br>\
+● 💬 speak 5 languages: Chinese, English, Taiwanese, French, Japanese<br>
+● 🏃🏻‍♀️ fun fact, I quite like walking<br>
 
 
 ## Find out the creative side :)
